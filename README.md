@@ -1,5 +1,13 @@
-# sparkbotstarter
-Starter kit template for a simple Cisco Spark bot
+# webex-bot-node
+This is a fork of the [sparkbotstarter project](https://github.com/valgaze/sparkbotstarter), which provided an example of how to create a (then) Cisco Spark bot using the node-flint framework.   This fork is designed to as a companion to the [webex-api-emulator](https://github.com/webex/webex-api-emulator) to provide an example of a bot that regression tests could be created for.
+
+Please see the [bot-test-framework-example](https://github.com/jpjpjp/bot-test-framework-example) project to see a full example of how to create and run a regression test against this bot.   
+
+What follows is the original sparkbotstarter project's readme:
+
+## sparkbotstarter
+
+A Starter kit template for a simple Cisco Spark bot
 
 (For a more detailed explanation, see the companion blog post here: https://medium.com/@valgaze/from-zero-to-cisco-spark-bot-nodejs-69224cb9ebb5#.bq5vrzi17)
 
